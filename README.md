@@ -1,3 +1,5 @@
+**_Note: This is not the current version. Latest version at github.com/linuxmint/cinnamon-spices-applets_**
+
 <h2><p align=center>Cinnamenu</p></h2>
 
 <h3><p align=center>
